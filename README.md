@@ -26,7 +26,7 @@ Cycling is great for mental well being, is low impact and is widely accesible.
 
 ## Index -Table of Contents
 
-- [UX](##-UX)
+- [UX](#ux)
 - [Design]()
 - [Features]()
 - [Technologies]()
