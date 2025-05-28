@@ -1,30 +1,41 @@
-#**Venture Cycle Events**
----
-##**Demo**
----
-A live demo can be found (here).
----
-##**Project Description**
----
 
-Venture Cycle Events is an events company looking to encourage all levels of cyclists, from recreational to enthuisiast, to enter our mass participation cycle events which take place all over the south of England.
+# Venture Cycle Events
 
-The Website provides all the neccesary information for a participant to make an informed choice for which event to enter with the event location, event distance and ride difficulty all clearly visible within the event entry card. 
-The site features striking photos of cyclists and scenec views taken during the events on the homepage along with a dedicated image gallery, a booking form page, a contact form and a booking/contact success page.
+## Demo
 
-##**Project Purpose**
+A live demo can be found [here]().
 ---
-To bring together cyclists of all ages and abilities to showcase the unique and beautiful landscapes around the south of England. Having other like minding people at these events helps keep you motivated and is a great way of socialising.
+## Project Description
 
-##**Index -Table of Contents**
+Venture Cycle Events is an events company looking to encourage all levels of cyclists to get outside and - from recreational to enthuisiast- to get outside and take part in our mass participation cycle events across the South of England.
 
-- [Design]
-- [Features]
-- [Technologies]
-- [Testing]
-- [Bugs]
-- [Depoloyment]
-- [Credits]
-##**UX**
+The Website provides all the neccesary information for participants to make an informed decision about which event to enter. Each event entry card clearly displays the event location, distance, and ride difficulty.
+
+The site also features:
+
+- Striking photos of cyclists and scenec views taken during the events on the homepage.
+- A dedicated image gallery.
+- A booking form page.
+- A contact form.
+- booking and contact success pages.
+
+## Project Purpose
+
+Our mission is ito bring together cyclists of all abilities to explorestunning routes and immerse trhemselves in the unique and beatiful landscapes of southern England - by bike!
+
+Cycling is great for mental well being, is low impact and is widely accesible.
+
+## Index -Table of Contents
+
+- [UX]()
+- [Design]()
+- [Features]()
+- [Technologies]()
+- [Testing]()
+- [Bugs]()
+- [Depoloyment]()
+- [Credits]()
 ---
-###**User Stories**
+## UX
+
+### User Stories
