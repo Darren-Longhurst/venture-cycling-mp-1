@@ -58,7 +58,7 @@ Cycling is great for mental well being, is low impact and is widely accesible.
 
 ### Colour Scheme
 
-![colour-plette](README-files/mp1-colour-scheme.png)
+![colour-palette](assets/README-files/mp1-colour-scheme.png)
 
 * For the colour scheme I have used an image picker to draw some of the more prominent colours from the main Hero image on the site and from the company logo.
 * The orange from the logo is used for all the buttons on the site with the dark brown colour on button hover. Text is kept white for good accesibility with both button colours. 
@@ -72,7 +72,7 @@ Typography chosen for the site is the same as used in the company logo - Open Sa
 
 H1, H2, H3 Heading fonts will all use variations of Open Sans.
 
-![google-fonts-import-link](README-files/mp1-google-fonts.png)
+![google-fonts-import-link](assets/README-files/mp1-google-fonts.png)
 
 ## Home Page
 
