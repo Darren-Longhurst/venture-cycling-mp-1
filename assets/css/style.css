@@ -17,12 +17,19 @@ body    {
 
 h1, h2, h3    {
     font-family: var(--secondary-font);
-    color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+h1, h2  {
     text-transform: uppercase;
 }
 
+h2  {
+    margin-bottom: 2rem;
+}
+
 .sub-heading-color  {
-    color: var(--highlight-color)
+    color: var(--highlight-color);
 }
 
 .section    {
@@ -42,9 +49,51 @@ h1, h2, h3    {
 
 /*Header*/
 
+#page-header >.display-3    {
+font-size: 3.5rem;
+}
 #header .lead   {
     font-family: var(--secondary-font);
+    font-size: 2rem;
 }
+
+.display-3  {
+    margin-top: 2rem;
+}
+
+/*Our Events*/
+
+#our-events .card  {
+margin-bottom: 1.5rem;
+}
+.card-body >.card-subtitle  {
+    margin-top: 1rem;
+}
+
+.card-body >.event-text {
+    margin-top: 1rem;
+}
+
+.card-title {
+    font-size: 1.2rem;
+}
+
+
+.display-6   {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card-body >.btn-outline   {
+background-color: var(--primary-color);
+color: #ffffff;
+
+}
+
+#star {
+    color: #ff781f;
+}
+
 /*Grid Visualisation CSS
 
 .container,
@@ -57,3 +106,29 @@ h1, h2, h3    {
     background-color: lightgray;
 }
 */
+
+/* Media Queries */
+
+/*Medium devices (tablets, 768px and up)*/
+@media screen and (min-width: 768px)    {
+    /*make all event cards the same height for consistency*/
+    #our-events .event-text  {
+        min-height: 72px;
+    }
+}
+
+@media screen and (min-width: 992px)    {
+    #our-events .event-text  {
+        min-height: 47px;
+    }
+}
+@media screen and (min-width: 1200px)    {
+    #our-events .event-text  {
+        min-height: 96px;
+    }
+}
+@media screen and (min-width: 1400px)    {
+    #our-events .event-text  {
+        min-height: 96px;
+    }
+}
