@@ -20,7 +20,7 @@ h1, h2, h3    {
     color: var(--primary-color);
 }
 
-/*Grid Visualisation CSS*/
+/*Grid Visualisation CSS
 
 .container,
 .row {
@@ -31,3 +31,4 @@ h1, h2, h3    {
     border: 2px solid white;
     background-color: lightgray;
 }
+*/
