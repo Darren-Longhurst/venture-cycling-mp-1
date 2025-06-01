@@ -78,8 +78,7 @@ H1, H2, H3 Heading fonts will all use variations of Open Sans.
 
 * On the landing page, users are drawn to the "Our Events" button, which scrolls the page to the events showcase area. 
 * All buttons change from orange to dark brown on hover with the white text giving a good contrast in both colours.
-* In the footer, all social media links will open on a new windown on selection
-* 
+* In the footer, all social media links will open on a new windown on selection.
 
 ### Images
 
