@@ -20,6 +20,16 @@ h1, h2, h3    {
     color: var(--primary-color);
 }
 
+/* Navbar*/
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo   {
+    width: 200px;
+}
+
 /*Grid Visualisation CSS
 
 .container,
