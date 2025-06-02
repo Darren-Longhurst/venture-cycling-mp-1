@@ -50,6 +50,12 @@ h1, h2  {
     border-color: var(--highlight-color);
 }
 
+/*Booking and Contact Us Forms*/
+
+.data-input-form    {
+    margin-bottom: 3rem;
+}
+
 /*Custom button styles*/
 
 .btn.custom-button-outline  {
@@ -118,11 +124,6 @@ margin-bottom: 1.5rem;
 
 #success .btn.custom-button-outline {
     margin-top: 2rem;
-}
-
-/*Booking Form*/
-#booking-form   {
-    margin-bottom: 3rem;
 }
 
 /*Rider Checklist Section*/
