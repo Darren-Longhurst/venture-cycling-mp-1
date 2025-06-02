@@ -24,17 +24,17 @@ h1, h2  {
     text-transform: uppercase;
 }
 
-h2  {
-    margin-bottom: 2rem;
-}
-
 .sub-heading-color  {
     color: var(--highlight-color);
 }
 
 .section    {
-    margin-top: 2rem;
-    margin-bottom: 2rem; 
+    margin-top: 5rem;
+   
+}
+
+.display-6   {
+    margin-bottom: 5rem;
 }
 /* Navbar*/
 
@@ -86,10 +86,6 @@ font-size: 3.5rem;
     font-size: 2rem;
 }
 
-.display-3  {
-    margin-top: 2rem;
-}
-
 /*Our Events*/
 
  .card-body >.card-title{
@@ -113,10 +109,6 @@ margin-bottom: 1.5rem;
     font-size: 1.2rem;
 }
 
-.display-6   {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-}
 
 #star {
     color: var(--primary-color);
@@ -128,18 +120,28 @@ margin-bottom: 1.5rem;
     margin-top: 2rem;
 }
 
-/*Grid Visualisation CSS
-
-.container,
-.row {
-    border: 2px solid black;
+/*Booking Form*/
+#booking-form   {
+    margin-bottom: 3rem;
 }
 
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgray;
+/*Rider Checklist Section*/
+
+#checklist-items    {
+    text-align: left;
+    padding-left: 2rem;
+    margin-top: 2rem;
 }
-*/
+
+#rider-checklist .fa-solid  {
+    color: var(--primary-color);
+}
+
+/*Testimonials Section*/
+
+#testimonials   {
+    margin-bottom: 6rem;
+}
 
 /*Footer Newsletter/Socials*/
 #newsletter {
