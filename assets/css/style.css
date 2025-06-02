@@ -24,10 +24,6 @@ h1, h2  {
     text-transform: uppercase;
 }
 
-.sub-heading-color  {
-    color: var(--highlight-color);
-}
-
 .section    {
     margin-top: 5rem;
    
@@ -157,6 +153,11 @@ margin-bottom: 1.5rem;
 }
 .social-links a:hover   {
 color: var(--highlight-color);
+}
+
+/* Gallery Page*/
+#photos img {
+width: 100%;
 }
 
 /* Media Queries */
