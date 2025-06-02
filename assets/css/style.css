@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 /*CSS Variables*/
 :root   {
---primary-font: "Open-sans", sans-serif;
+--primary-font: "Open Sans", sans-serif;
 --secondary-font: "Cal Sans", sans-serif;
 --primary-color: #57b3c8; /*blue*/
 --secondary-color: #423317; /*brown*/
@@ -15,7 +15,7 @@ body    {
     font-family: var(--primary-font);
 }
 
-h1, h2, h3    {
+body h1, body h2, body h3    {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
 }
@@ -50,6 +50,31 @@ h2  {
     border-color: var(--highlight-color);
 }
 
+/*Custom button styles*/
+
+.btn.custom-button-outline  {
+    border: 1px solid var(--highlight-color);
+    padding: 7px 25px;
+    color: var(--highlight-color);
+}
+
+.btn.custom-button-outline:hover    {
+    background-color: var(--highlight-color);
+    color: #ffffff;
+}
+
+.btn.custom-button-filled   {
+    border: 1px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: #ffffff;
+}
+
+.btn.custom-button-filled:hover {
+border: 1px solid #ffffff;
+background-color: transparent;
+color: #ffffff;
+}
+
 
 /*Header*/
 
@@ -67,6 +92,12 @@ font-size: 3.5rem;
 
 /*Our Events*/
 
+ .card-body >.card-title{
+
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+ }
+
 #our-events .card  {
 margin-bottom: 1.5rem;
 }
@@ -82,24 +113,19 @@ margin-bottom: 1.5rem;
     font-size: 1.2rem;
 }
 
-
 .display-6   {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
 
-.card-body >.btn-outline   {
-border-color: var(--highlight-color);
-color: var(--highlight-color);
-
-}
-
-.card-body >.btn-outline:hover  {
-    background-color: #ff781f;
-    color: #ffffff;
-}
 #star {
     color: var(--primary-color);
+}
+
+/*Success page*/
+
+#success .btn.custom-button-outline {
+    margin-top: 2rem;
 }
 
 /*Grid Visualisation CSS
@@ -118,17 +144,6 @@ color: var(--highlight-color);
 /*Footer Newsletter/Socials*/
 #newsletter {
     background-color: var(--primary-color);
-}
-
-.d-flex >.btn-primary   {
-    background-color: var(--highlight-color);
-    border-color: var(--highlight-color);
-    color: #ffffff;
-}
-.d-flex >.btn-primary:hover  {
-    border-color: #ffffff;
-    background-color: transparent;
-    
 }
 
 /*Social links*/
