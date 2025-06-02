@@ -46,6 +46,10 @@ h2  {
     width: 200px;
 }
 
+.btn-outline    {
+    border-color: var(--highlight-color);
+}
+
 
 /*Header*/
 
@@ -85,13 +89,17 @@ margin-bottom: 1.5rem;
 }
 
 .card-body >.btn-outline   {
-background-color: var(--primary-color);
-color: #ffffff;
+border-color: var(--highlight-color);
+color: var(--highlight-color);
 
 }
 
+.card-body >.btn-outline:hover  {
+    background-color: #ff781f;
+    color: #ffffff;
+}
 #star {
-    color: #ff781f;
+    color: var(--primary-color);
 }
 
 /*Grid Visualisation CSS
@@ -106,6 +114,32 @@ color: #ffffff;
     background-color: lightgray;
 }
 */
+
+/*Footer Newsletter/Socials*/
+#newsletter {
+    background-color: var(--primary-color);
+}
+
+.d-flex >.btn-primary   {
+    background-color: var(--highlight-color);
+    border-color: var(--highlight-color);
+    color: #ffffff;
+}
+.d-flex >.btn-primary:hover  {
+    border-color: #ffffff;
+    background-color: transparent;
+    
+}
+
+/*Social links*/
+.social-links a  {
+    color: var(--primary-color);
+    font-size: 2.0rem;
+    padding: 30px;
+}
+.social-links a:hover   {
+color: var(--highlight-color);
+}
 
 /* Media Queries */
 
