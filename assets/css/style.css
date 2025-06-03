@@ -40,6 +40,7 @@ h1, h2  {
 
 #navbar {
     background-color: var(--primary-color);
+    font-weight: bold;
 }
 
 #navbar .logo   {
@@ -62,6 +63,7 @@ h1, h2  {
     border: 1px solid var(--highlight-color);
     padding: 7px 25px;
     color: var(--highlight-color);
+    font-weight: bold;
 }
 
 .btn.custom-button-outline:hover    {
@@ -73,6 +75,7 @@ h1, h2  {
     border: 1px solid var(--highlight-color);
     background-color: var(--highlight-color);
     color: #ffffff;
+    font-weight: bold;
 }
 
 .btn.custom-button-filled:hover {
