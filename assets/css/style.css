@@ -1,41 +1,51 @@
 /*Google Fonts Import*/
+
 @import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 /*CSS Variables*/
-:root   {
---primary-font: "Open Sans", sans-serif;
---secondary-font: "Cal Sans", sans-serif;
---primary-color: #57b3c8; /*blue*/
---secondary-color: #423317; /*brown*/
---highlight-color: #ff781f; /*orange*/
+
+:root {
+    --primary-font: "Open Sans", sans-serif;
+    --secondary-font: "Cal Sans", sans-serif;
+    --primary-color: #57b3c8;
+    /*blue*/
+    --secondary-color: #423317;
+    /*brown*/
+    --highlight-color: #ff781f;
+    /*orange*/
 }
 
 /*Global Styles*/
 
-body    {
+body {
     font-family: var(--primary-font);
 }
 
-body h1, body h2, body h3    {
+body h1,
+body h2,
+body h3 {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
 }
 
-h1, h2  {
+h1,
+h2 {
     text-transform: uppercase;
 }
 
-.section    {
-    /*padding-top: 4rem; Prevent Nav bar overlap in each section*/
-    padding-top: 110px;
+.section {
+    /*padding-top: 4%; Prevent Nav bar overlap in each section*/
+    padding-top:4%;
 }
 
-.sub-heading-color  {
+.sub-heading-color {
     color: var(--highlight-color)
 }
 
-.display-6   {
+.display-6 {
     margin-bottom: 5rem;
 }
+
 /* Navbar*/
 
 #navbar {
@@ -43,79 +53,77 @@ h1, h2  {
     font-family: var(--secondary-font);
 }
 
-#navbar .logo   {
+#navbar .logo {
     width: 120px;
 }
 
 /*Booking and Contact Us Forms*/
 
-.data-input-form    {
+.data-input-form {
     margin-bottom: 3rem;
 }
 
 /*Custom button styles*/
 
-.btn.custom-button-outline  {
+.btn.custom-button-outline {
     border: 1px solid var(--highlight-color);
     padding: 7px 25px;
     color: var(--highlight-color);
     font-weight: bold;
 }
 
-.btn.custom-button-outline:hover    {
+.btn.custom-button-outline:hover {
     background-color: var(--highlight-color);
     color: #ffffff;
 }
 
-.btn.custom-button-filled   {
+.btn.custom-button-filled {
     border: 1px solid var(--highlight-color);
     background-color: var(--highlight-color);
     color: #ffffff;
 }
 
 .btn.custom-button-filled:hover {
-border: 1px solid #ffffff;
-background-color: transparent;
-color: #ffffff;
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    color: #ffffff;
 }
-
 
 /*Header*/
 
-
-
-#page-header >.display-3    {
-font-size: 3.5rem;
-padding-top: 1rem;
+#page-header>.display-3 {
+    font-size: 3.5rem;
+    padding-top: 1rem;
 }
-#header .lead   {
+
+#header .lead {
     font-family: var(--secondary-font);
     font-size: 2rem;
 }
 
 /*Our Events*/
 
- .card-body >.card-title{
+.card-body>.card-title {
 
     font-family: var(--secondary-font);
     color: var(--secondary-color);
- }
-
-#our-events .card  {
-margin-bottom: 1.5rem;
 }
-.card-body >.card-subtitle  {
+
+#our-events .card {
+    margin-bottom: 1.5rem;
+}
+
+.card-body>.card-subtitle {
     margin-top: 1rem;
 }
 
-.card-body >.event-text {
+.card-body>.event-text {
     margin-top: 1rem;
 }
 
 .card-title {
     font-size: 1.2rem;
 }
-
 
 .star {
     color: var(--primary-color);
@@ -129,9 +137,10 @@ margin-bottom: 1.5rem;
 
 /*Rider Checklist Section*/
 
-.checklist-icon  {
+.checklist-icon {
     color: var(--primary-color);
 }
+
 #rider-checklist .list-unstyled {
     max-width: 260px;
 }
@@ -143,57 +152,65 @@ margin-bottom: 1.5rem;
 
 /*Testimonials Section*/
 
-#testimonials   {
+#testimonials {
     margin-bottom: 6rem;
 }
 
-#testimonials h5    {
+#testimonials h5 {
     font-family: var(--secondary-font);
     color: var(--highlight-color);
 }
 
 /*Footer Newsletter/Socials*/
+
 #newsletter {
     background-color: var(--primary-color);
 }
 
 /*Social links*/
-.social-links a  {
+
+.social-links a {
     color: var(--primary-color);
     font-size: 2.0rem;
     padding: 30px;
 }
-.social-links a:hover   {
-color: var(--highlight-color);
+
+.social-links a:hover {
+    color: var(--highlight-color);
 }
 
 /* Gallery Page*/
+
 #photos img {
-width: 100%;
+    width: 100%;
 }
 
 /* Media Queries */
 
 /*Medium devices (tablets, 768px and up)*/
-@media screen and (min-width: 768px)    {
+
+@media screen and (min-width: 768px) {
+
     /*make all event cards the same height for consistency*/
-    #our-events .event-text  {
+    #our-events .event-text {
         min-height: 72px;
     }
 }
 
-@media screen and (min-width: 992px)    {
-    #our-events .event-text  {
+@media screen and (min-width: 992px) {
+    #our-events .event-text {
         min-height: 47px;
     }
 }
-@media screen and (min-width: 1200px)    {
-    #our-events .event-text  {
+
+@media screen and (min-width: 1200px) {
+    #our-events .event-text {
         min-height: 96px;
     }
 }
-@media screen and (min-width: 1400px)    {
-    #our-events .event-text  {
+
+@media screen and (min-width: 1400px) {
+    #our-events .event-text {
         min-height: 96px;
     }
 }
