@@ -1,9 +1,9 @@
-﻿
+﻿![website mock up] (assets/images/readme-mockup.png)
 # Venture Cycle Events
 
 ## Demo
 
-A live demo can be found [here]().
+### Live website can be found [here](https://darren-longhurst.github.io/venture-cycling-mp-1/index.html).
 ---
 ## Project Description
 
