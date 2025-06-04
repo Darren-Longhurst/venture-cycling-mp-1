@@ -1,4 +1,4 @@
-﻿![website mock up] (assets/images/readme-mockup.png)
+﻿![Image](assets/images/readme-mockup.png)
 # Venture Cycle Events
 
 ## Demo
