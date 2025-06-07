@@ -54,7 +54,7 @@ h2 {
 }
 
 #navbar .logo {
-    width: 120px;
+    width: 100px;
 }
 
 /*Booking and Contact Us Forms*/
@@ -186,6 +186,23 @@ h2 {
 }
 
 /* Media Queries */
+
+/*Extra small devices (<576px)*/
+/*Hero image and text padding to avoid nav-bar fouling*/
+
+@media screen and (max-width: 576px)   {
+    .section    {
+        padding-top: 100px;
+    }
+}
+/*Small devices (=>576px)*/
+
+@media screen and (min-width: 576px)    {
+    
+    .section    {
+        padding-top: 100px;
+    }
+}
 
 /*Medium devices (tablets, 768px and up)*/
 
