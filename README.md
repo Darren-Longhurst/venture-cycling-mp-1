@@ -207,6 +207,11 @@ I will display my pre optimisation and post optimisation lighthouse results and 
 
 ![post-optimisation](assets/README-files/post-optimisation-results.png)
 
+## Test cases and results
+The below table details the test cases that were performed, mirroring the user stories from the beginning of this document:
+
+![test-cases](assets/README-files/test-cases.png)
+
 ## Bugs
 
 Before optimisation, the page suffered from extensive loading times. This was becasue the images were not formatted correctly or optimised for the page. In order I:
