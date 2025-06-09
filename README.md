@@ -153,6 +153,7 @@ I have a couple of stretch goals left in github projects that I would have loved
 ## Technologies
 
 * HTML5 and CSS programming languages
+* Javascript (for smooth scrollign nav bar)
 * [Bootstrap](https://getbootstrap.com/) 5.3.3
 * Visual Studio Code - As my IDE using command line to push code to GitHub
 * Github - To host my repository
