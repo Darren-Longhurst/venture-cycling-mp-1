@@ -101,6 +101,37 @@ h2 {
     font-size: 2rem;
 }
 
+/*Custom circles and text*/
+
+.custom-circles .circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--secondary-font);
+  font-size: 4rem;
+  color: white;
+  margin: 0 auto 10px;
+}
+
+/* Specific color */
+
+.custom-circles .circle-orange {
+  background-color: var(--highlight-color);
+}
+
+/*Circle text*/
+
+.circle-heading  {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.circle-text  {
+    font-family: var(--primary-font);
+    margin-top: 1rem;
+}
 /*Our Events*/
 
 .card-body>.card-title {
