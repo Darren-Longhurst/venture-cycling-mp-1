@@ -18,11 +18,16 @@ The site also features:
 - booking and contact success pages.
 - Newsletter sign up and sucess pages
 
-## Project Purpose
+## Project Purpose and rationale
 
-Our mission is ito bring together cyclists of all abilities to explore stunning routes and immerse themselves in the unique and beautiful landscapes of southern England - by bike!
-
-Cycling is great for mental well being, is a low impact sport and is widely accessible.
+### Addressing the need for accessible, community driven cycling experiences
+The South of England boasts the highest cycling rates in the whole of the UK with over 30% of the population either commuting or leisure cycling in their free time.
+Despite this, many people are unaware of the physical and mental health benefits of communal, mass participation cycling events. Venture cycling aims to highlight this and also offer unique access to our many vibrant, historical and scenic landscapes across the South of England.
+### Local Tourism and Community Engagement
+Having the local community on board with us is paramount. We not only provide incentives via discount codes for local cycling clubs to come and ride but we also work incredibly closely with the local councils for route planning. Ensuring routes are safe, free of any restrictions, do not clash with other events and roads are suitable for the expected level of entrants.
+We also anticipate our riders will enhance local tourism at and near the event venues by booking hotel rooms, cycle workshops and restaurants which will also strengthen community ties and support local businesses.
+### Leveraging cycle infrastructure
+We hope that by putting these events on, and bringing them to the local community, people will see the need for safe, bike friendly infrustructure in their area. Putting a focus on sustainable travel for all.
 
 ## Index -Table of Contents
 
@@ -153,6 +158,7 @@ I have a couple of stretch goals left in github projects that I would have loved
 ## Technologies
 
 * HTML5 and CSS programming languages
+* JavaScript (for smooth scrolling nav bar)
 * [Bootstrap](https://getbootstrap.com/) 5.3.3
 * Visual Studio Code - As my IDE using command line to push code to GitHub
 * Github - To host my repository
@@ -206,6 +212,12 @@ I will display my pre optimisation and post optimisation lighthouse results and 
 #### Post - optimisation
 
 ![post-optimisation](assets/README-files/post-optimisation-results.png)
+
+## Test cases and results
+The below table details the test cases that were performed, mirroring the user stories from the beginning of this document:
+
+![test-results](assets/README-files/test-cases.png)
+
 
 ## Bugs
 
