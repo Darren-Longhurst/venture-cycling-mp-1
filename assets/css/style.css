@@ -1,6 +1,6 @@
 /*Google Fonts Import*/
 
-@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cal+Sans&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
 /*CSS Variables*/
 
@@ -35,11 +35,11 @@ h2 {
 
 .section {
     /*padding-top: 4%; Prevent Nav bar overlap in each section*/
-    padding-top:4%;
+    padding-top: 4%;
 }
 
 .sub-heading-color {
-    color: var(--highlight-color)
+    color: var(--highlight-color);
 }
 
 .display-6 {
@@ -59,31 +59,32 @@ h2 {
 
 /* Hero Video*/
 
-#header {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  overflow: hidden;
-}
-
 #carouselExampleFade {
-  height: 100%;
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 0;
 }
 
-.carousel-item {
-  position: relative;
-  width: 100%;
-  height: 100%;
+/* Carousel Items */
+
+#carouselExampleFade .carousel-inner,
+#carouselExampleFade .carousel-item {
+    width: 100%;
+    height: 100%;
 }
 
-.carousel-item video,
-.carousel-item img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+#carouselExampleFade video,
+#carouselExampleFade img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
 }
 
 /*Booking and Contact Us Forms*/
@@ -120,7 +121,7 @@ h2 {
 
 /*Header*/
 
-#page-header>.display-3 {
+#page-header > .display-3 {
     font-size: 3.5rem;
     padding-top: 1rem;
 }
@@ -133,38 +134,37 @@ h2 {
 /*Custom circles and text*/
 
 .custom-circles .circle {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--secondary-font);
-  font-size: 4rem;
-  color: white;
-  margin: 0 auto 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--secondary-font);
+    font-size: 4rem;
+    color: white;
+    margin: 0 auto 10px;
 }
 
 /* Specific color */
 
 .custom-circles .circle-orange {
-  background-color: var(--highlight-color);
+    background-color: var(--highlight-color);
 }
 
 /*Circle text*/
 
-.circle-heading  {
+.circle-heading {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
-.circle-text  {
+.circle-text {
     font-family: var(--primary-font);
     margin-top: 1rem;
 }
 /*Our Events*/
 
-.card-body>.card-title {
-
+.card-body > .card-title {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
 }
@@ -173,11 +173,11 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
-.card-body>.card-subtitle {
+.card-body > .card-subtitle {
     margin-top: 1rem;
 }
 
-.card-body>.event-text {
+.card-body > .event-text {
     margin-top: 1rem;
 }
 
@@ -231,7 +231,7 @@ h2 {
 
 .social-links a {
     color: var(--primary-color);
-    font-size: 2.0rem;
+    font-size: 2rem;
     padding: 30px;
 }
 
@@ -250,16 +250,15 @@ h2 {
 /*Extra small devices (<576px)*/
 /*Hero image and text padding to avoid nav-bar fouling*/
 
-@media screen and (max-width: 576px)   {
-    .section    {
+@media screen and (max-width: 576px) {
+    .section {
         padding-top: 100px;
     }
 }
 /*Small devices (=>576px)*/
 
-@media screen and (min-width: 576px)    {
-    
-    .section    {
+@media screen and (min-width: 576px) {
+    .section {
         padding-top: 100px;
     }
 }
@@ -267,10 +266,15 @@ h2 {
 /*Medium devices (tablets, 768px and up)*/
 
 @media screen and (min-width: 768px) {
-
     /*make all event cards the same height for consistency*/
     #our-events .event-text {
         min-height: 72px;
+    }
+}
+
+@media (max-width: 768px) {
+    #carouselExampleFade {
+        aspect-ratio: 4 / 3;
     }
 }
 
