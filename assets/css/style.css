@@ -65,6 +65,14 @@ h2 {
     object-fit: cover;
   }
 
+#carouselExampleFade {
+    height: 400px; 
+  }
+#carouselExampleFade .carousel-item img,
+#carouselExampleFade .carousel-item video {
+    height: 100%;
+  }
+
 /*Booking and Contact Us Forms*/
 
 .data-input-form {
