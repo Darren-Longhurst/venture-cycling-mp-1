@@ -20,22 +20,33 @@ The site also features:
 
 ## Project Purpose and rationale
 
-### Addressing the need for accessible, community driven cycling experiences
-The South of England has one of the highest cycling participation rates in the UK, with over 30% of the population regularly engaging in either commuting or recreational cycling. Despite this, many cyclists remain unaware of the physical, mental, and social benefits that organised, community-based cycling events can bring.
+### Addressing the need for accessible, community-driven cycling experiences
 
-Venture Cycle Events seeks to bridge this gap by creating inclusive, professionally managed sportives that encourage riders of all abilities to take part. Through our events, we aim to showcase the beauty of the South’s diverse landscapes — from rolling countryside to historic towns — while promoting healthy lifestyles, outdoor activity, and social connection.
+The South of England boasts the highest cycling rates in the UK, with over 30% of the population either commuting or leisure cycling in their free time. Despite this, many people are unaware of the physical and mental health benefits of communal, mass-participation cycling events. Venture Cycle Events aims to highlight these benefits while offering unique access to vibrant, historical, and scenic landscapes across the South of England.
 
-Our mission is not only to deliver exceptional cycling experiences but also to make participation accessible, enjoyable, and sustainable for everyone, regardless of experience level or background.
+### Why an Online Presence Was Essential
+
+While Venture Cycle Events hosts in-person cycling sportives, there was a clear gap in accessible digital communication and engagement. Potential participants, especially newcomers or casual cyclists, lacked a centralized, user-friendly platform to:
+
+- Discover upcoming events: Previously, event information was scattered across social media, flyers, and local club announcements, forcing riders to search multiple sources to plan participation.
+
+- Easily book and register: Manual registration processes or outdated booking forms created friction and led to missed opportunities.
+
+- Understand local context and logistics: New participants were often unaware of route difficulty, necessary gear, or local accommodations, which made planning a safe and enjoyable experience difficult.
+
+- Engage with the community: There was no consistent way to highlight rider stories, testimonials, or foster a sense of belonging for a cycling community in the South of England.
+
+This website addresses these gaps by providing a centralized, visually engaging, and interactive platform where users can view upcoming events with detailed routes, distances, and difficulty levels; register and book online; access rider checklists and safety advice; explore local tourism opportunities; and connect with the broader cycling community through testimonials, social media, and newsletters.
+
 ### Local Tourism and Community Engagement
-Community involvement lies at the heart of Venture Cycle Events. By collaborating with local councils, cycling clubs, and tourism boards, we ensure our routes are safe, well-planned, and beneficial to both participants and residents. This partnership approach helps avoid logistical conflicts, promotes road safety, and integrates our events seamlessly into the local calendar.
 
-We also provide tangible benefits for local economies — participants and their supporters often stay in nearby hotels, visit cafés and restaurants, and engage with local businesses such as bike shops and repair services. This influx of visitors creates a positive economic impact and fosters lasting relationships between the cycling community and the regions we operate in.
+Having the local community on board is paramount. Venture Cycle Events provides incentives via discount codes for local cycling clubs and collaborates closely with local councils for route planning—ensuring routes are safe, free of restrictions, and suitable for the expected level of entrants.
 
-Through promotional partnerships and local discount schemes, we aim to create a network of returning riders and ambassadors who continue to champion cycling in their areas long after the event has ended.
-### Leveraging cycle infrastructure
-By hosting high-profile cycling events across the South, Venture Cycle Events helps demonstrate the importance of investing in safe, accessible, and sustainable cycling infrastructure. Our routes are carefully designed to highlight both the strengths and limitations of current infrastructure, encouraging local authorities and communities to recognise the value of further improvements.
+We also anticipate that riders will enhance local tourism near event venues by booking hotel rooms, attending cycle workshops, and visiting restaurants. This strengthens community ties and supports local businesses.
 
-Each event acts as a catalyst for change — inspiring participants and spectators alike to consider cycling as a viable mode of everyday transport and recreation. We hope to contribute to a broader cultural shift toward active travel, sustainability, and environmental awareness, leaving a legacy that extends far beyond the event.
+### Leveraging Cycle Infrastructure
+
+By bringing these events to the local community, Venture Cycle Events hopes to raise awareness of the need for safe, bike-friendly infrastructure. The project emphasizes sustainable travel for all, inspiring local authorities and residents to prioritize cycling accessibility.
 
 ## Index -Table of Contents
 
