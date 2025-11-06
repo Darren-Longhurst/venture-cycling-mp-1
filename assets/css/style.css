@@ -59,19 +59,32 @@ h2 {
 
 /* Hero Video*/
 
-  .carousel-item video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
+#header {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
 
 #carouselExampleFade {
-    height: 600px; 
-  }
-#carouselExampleFade .carousel-item img,
-#carouselExampleFade .carousel-item video {
-    height: 100%;
-  }
+  height: 100%;
+}
+
+.carousel-item {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-item video,
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 
 /*Booking and Contact Us Forms*/
 
