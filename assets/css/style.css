@@ -57,6 +57,14 @@ h2 {
     width: 100px;
 }
 
+/* Hero Video*/
+
+  .carousel-item video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
 /*Booking and Contact Us Forms*/
 
 .data-input-form {
