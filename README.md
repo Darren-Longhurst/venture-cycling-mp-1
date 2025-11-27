@@ -20,33 +20,46 @@ The site also features:
 
 ## Project Purpose and rationale
 
-### Addressing the need for accessible, community-driven cycling experiences
+### Project rationale - Identifying the Need
 
-The South of England boasts the highest cycling rates in the UK, with over 30% of the population either commuting or leisure cycling in their free time. Despite this, many people are unaware of the physical and mental health benefits of communal, mass-participation cycling events. Venture Cycle Events aims to highlight these benefits while offering unique access to vibrant, historical, and scenic landscapes across the South of England.
+Cycling in the South of England, particularly in the South East, shows both strong participation potential and persistent barriers. According to the Sport England / Active Lives Survey, in the South East region around 
+17.3% of people reported cycling at least twice in the last 28 days (Nov 2022–Nov 2023), indicating relatively high regional engagement in comparison to the rest of the country. 
 
-### Why an Online Presence Was Essential
+In Surrey specifically (one of our flagship events), 15.9% of residents said they had cycled for leisure or sport, and 5.8% for travel, at least twice in that same period as cited by the [Surrey CC Network & Needs Report](https://www.surreycc.gov.uk/__data/assets/pdf_file/0014/408002/EvidenceReport2-Network-and-Needs.pdf). 
 
-While Venture Cycle Events hosts in-person cycling sportives, there was a clear gap in accessible digital communication and engagement. Potential participants, especially newcomers or casual cyclists, lacked a centralized, user-friendly platform to:
+However, despite this regional usage, there is still no single online hub for discovering, and booking local cycling events. Many riders — including casual cyclists or those new to sportives — rely on disconnected sources (local clubs, social media), which makes discovering and participating in events particularly difficult.
 
-- Discover upcoming events: Previously, event information was scattered across social media, flyers, and local club announcements, forcing riders to search multiple sources to plan participation.
+ Many rural and semi-rural areas may lack dedicated cycle infrastructure but host scenic, long-distance cycling routes. Without a digital platform that clearly communicates route safety, elevation, and required gear, many potential participants may feel discouraged or unprepared.
 
-- Easily book and register: Manual registration processes or outdated booking forms created friction and led to missed opportunities.
+In addition, youth engagement in cycling training is strong in the region: in the South East, over 54,000 Bikeability places were delivered in a single year (core + plus training), showing interest among younger riders, as detailed in the [UK Parliament Committees](https://committees.parliament.uk/writtenevidence/26178/html) report. 
 
-- Understand local context and logistics: New participants were often unaware of route difficulty, necessary gear, or local accommodations, which made planning a safe and enjoyable experience difficult.
+Promoting local sportive events through a dedicated website could link this younger generation (and their families) to real-world cycling experiences, building community and increasing sustained engagement.
 
-- Engage with the community: There was no consistent way to highlight rider stories, testimonials, or foster a sense of belonging for a cycling community in the South of England.
+### How This Project Responds
 
-This website addresses these gaps by providing a centralized, visually engaging, and interactive platform where users can view upcoming events with detailed routes, distances, and difficulty levels; register and book online; access rider checklists and safety advice; explore local tourism opportunities; and connect with the broader cycling community through testimonials, social media, and newsletters.
+The Venture Cycle Events website has been developed to directly address these regional challenges by providing:
 
-### Local Tourism and Community Engagement
+- A centralised event portal, listing upcoming sportives in the region, with detailed route information (maps, elevation, distance, difficulty) — making it easier to discover rides that match skill level and location.
 
-Having the local community on board is paramount. Venture Cycle Events provides incentives via discount codes for local cycling clubs and collaborates closely with local councils for route planning—ensuring routes are safe, free of restrictions, and suitable for the expected level of entrants.
+- Streamlined booking and registration, removing friction and making it simpler for newcomers to sign up.
 
-We also anticipate that riders will enhance local tourism near event venues by booking hotel rooms, attending cycle workshops, and visiting restaurants. This strengthens community ties and supports local businesses.
+- Practical guidance including checklists, recommended gear, safety advice, and accommodation suggestions — tailored to the regional context, where routes may pass through rural or tourist areas.
 
-### Leveraging Cycle Infrastructure
+- Community-building features: rider testimonials, local stories, integrated social media, and a newsletter so that participants feel part of a regional cycling network.
 
-By bringing these events to the local community, Venture Cycle Events hopes to raise awareness of the need for safe, bike-friendly infrastructure. The project emphasizes sustainable travel for all, inspiring local authorities and residents to prioritize cycling accessibility.
+By focusing on the South, the platform also supports local economic and infrastructural benefits: riders attending events are likely to use local accommodation, cycle shops, and cafés, generating tourism and encouraging councils to invest in cycling infrastructure.
+
+### Wider Aims & Impact
+
+This project aims to unlock latent cycling potential in the South of England: even though around 17% of people cycle occasionally (in parts of the South East), many are unable to access or participate in organised cycling events because event information is scattered across multiple channels. By offering a single, dedicated online space, Venture Cycle Events can:
+
+- Increase participation in community sportives, particularly among casual and first-time participants
+
+- Promote cycling as a healthy, sustainable activity, reinforcing the physical and mental health benefits of regular cycling
+
+- Support local economies through event tourism and cycle-friendly business partnerships
+
+- Encourage local authorities to improve cycling infrastructure, by demonstrating active engagement and demand through a connected community
 
 ## Index -Table of Contents
 
@@ -297,6 +310,7 @@ Scroll back down through the page to locate the now published site link in the "
 * Images for the testimonial section of the homepage were from [Pexels](https://www.pexels.com/).
 * When stuck in a bit of a code block, I found [W3 Schools](https://www.w3schools.com/) particularly helpful.
 * For formatting HTML and CSS I used [Beautifier.io](https://beautifier.io/)
+
 
 
 
